@@ -1,0 +1,6 @@
+[submodule "ECOMMERCE-BACKEND"]
+	path = ECOMMERCE-BACKEND
+	url = https://github.com/your-username/ECOMMERCE-BACKEND.git
+[submodule "ECOMMERCE-FONTEND"]
+	path = ECOMMERCE-FONTEND
+	url = https://github.com/your-username/ECOMMERCE-FONTEND.git
